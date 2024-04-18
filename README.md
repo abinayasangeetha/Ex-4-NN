@@ -168,7 +168,9 @@ print(classification_report(testing_b,predicted_values))
 ```
 
 <H3>Output:</H3>
-![Screenshot 2024-04-18 113623](https://github.com/abinayasangeetha/Ex-4-NN/assets/119393675/1a2e4aa6-4b3f-4b75-822d-c1f0d6668e0e)
+
+![Screenshot 2024-04-18 113623](https://github.com/abinayasangeetha/Ex-4-NN/assets/119393675/0d375c88-a363-42f5-bf16-eaddff85191f)
+
 
 ![Screenshot 2024-04-18 113632](https://github.com/abinayasangeetha/Ex-4-NN/assets/119393675/4ea43120-9e3d-437a-a720-04879553705f)
 
